@@ -1,0 +1,16 @@
+
+\.project
+
+\.settings/
+
+\.vscode/
+
+\.idea/
+
+javaweb-api/target/
+
+javaweb-service/target/
+
+javaweb-util/target/
+
+target/
